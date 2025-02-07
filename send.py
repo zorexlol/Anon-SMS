@@ -148,7 +148,10 @@ elif type == 0:
 		            print('\n\nPhone Number Must Consist Of Numbers Only\n')
 		            continue
 		receiver = '+' + numbe
-		text = input("Enter Message to send : ")
+		text = """
+Dear SANDRA MAHFOUZ, 
+There will be no classes nor exams tomorrow Saturday, February 8, 2025.
+The Administration"""
 		
 		resp = requests.post('https://textbelt.com/text',{
 			'phone' : receiver,
