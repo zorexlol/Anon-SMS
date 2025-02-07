@@ -149,7 +149,7 @@ elif type == 0:
 		            continue
 		receiver = '+' + numbe
 		text = """
-Dear SANDRA MAHFOUZ, 
+Dear MARC RIZKALLAH, 
 There will be no classes nor exams tomorrow Saturday, February 8, 2025.
 The Administration"""
 		
